@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\PartFour\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.exe
+E:\Programming\Troelsen\PartFour\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.deps.json
+E:\Programming\Troelsen\PartFour\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.dll
+E:\Programming\Troelsen\PartFour\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.pdb
+E:\Programming\Troelsen\PartFour\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.dll
+E:\Programming\Troelsen\PartFour\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.pdb

@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\bin\Debug\netcoreapp3.1\InterfaceExtensions.exe
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\bin\Debug\netcoreapp3.1\InterfaceExtensions.deps.json
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\bin\Debug\netcoreapp3.1\InterfaceExtensions.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\bin\Debug\netcoreapp3.1\InterfaceExtensions.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\bin\Debug\netcoreapp3.1\InterfaceExtensions.dll
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\bin\Debug\netcoreapp3.1\InterfaceExtensions.pdb
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\obj\Debug\netcoreapp3.1\InterfaceExtensions.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\obj\Debug\netcoreapp3.1\InterfaceExtensions.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\obj\Debug\netcoreapp3.1\InterfaceExtensions.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\obj\Debug\netcoreapp3.1\InterfaceExtensions.dll
+E:\Programming\Troelsen\PartFour\InterfaceExtensions\obj\Debug\netcoreapp3.1\InterfaceExtensions.pdb

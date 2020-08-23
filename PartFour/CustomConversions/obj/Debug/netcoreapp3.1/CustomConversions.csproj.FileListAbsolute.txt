@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\CustomConversions\bin\Debug\netcoreapp3.1\CustomConversions.exe
+E:\Programming\Troelsen\PartFour\CustomConversions\bin\Debug\netcoreapp3.1\CustomConversions.deps.json
+E:\Programming\Troelsen\PartFour\CustomConversions\bin\Debug\netcoreapp3.1\CustomConversions.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\CustomConversions\bin\Debug\netcoreapp3.1\CustomConversions.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\CustomConversions\bin\Debug\netcoreapp3.1\CustomConversions.dll
+E:\Programming\Troelsen\PartFour\CustomConversions\bin\Debug\netcoreapp3.1\CustomConversions.pdb
+E:\Programming\Troelsen\PartFour\CustomConversions\obj\Debug\netcoreapp3.1\CustomConversions.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\CustomConversions\obj\Debug\netcoreapp3.1\CustomConversions.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\CustomConversions\obj\Debug\netcoreapp3.1\CustomConversions.dll
+E:\Programming\Troelsen\PartFour\CustomConversions\obj\Debug\netcoreapp3.1\CustomConversions.pdb
+E:\Programming\Troelsen\PartFour\CustomConversions\obj\Debug\netcoreapp3.1\CustomConversions.csprojAssemblyReference.cache

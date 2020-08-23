@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.exe
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.deps.json
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.dll
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.pdb
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.dll
+E:\Programming\Troelsen\PartFour\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.pdb

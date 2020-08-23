@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\PartFour\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.exe
+E:\Programming\Troelsen\PartFour\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.deps.json
+E:\Programming\Troelsen\PartFour\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.dll
+E:\Programming\Troelsen\PartFour\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.pdb
+E:\Programming\Troelsen\PartFour\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.dll
+E:\Programming\Troelsen\PartFour\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.pdb

@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\bin\Debug\netcoreapp3.1\SimpleLambdaExpressions.exe
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\bin\Debug\netcoreapp3.1\SimpleLambdaExpressions.deps.json
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\bin\Debug\netcoreapp3.1\SimpleLambdaExpressions.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\bin\Debug\netcoreapp3.1\SimpleLambdaExpressions.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\bin\Debug\netcoreapp3.1\SimpleLambdaExpressions.dll
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\bin\Debug\netcoreapp3.1\SimpleLambdaExpressions.pdb
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\obj\Debug\netcoreapp3.1\SimpleLambdaExpressions.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\obj\Debug\netcoreapp3.1\SimpleLambdaExpressions.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\obj\Debug\netcoreapp3.1\SimpleLambdaExpressions.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\obj\Debug\netcoreapp3.1\SimpleLambdaExpressions.dll
+E:\Programming\Troelsen\PartFour\SimpleLambdaExpressions\obj\Debug\netcoreapp3.1\SimpleLambdaExpressions.pdb

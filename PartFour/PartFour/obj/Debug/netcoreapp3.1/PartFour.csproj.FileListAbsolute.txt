@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\PartFour\bin\Debug\netcoreapp3.1\PartFour.exe
+E:\Programming\Troelsen\PartFour\PartFour\bin\Debug\netcoreapp3.1\PartFour.deps.json
+E:\Programming\Troelsen\PartFour\PartFour\bin\Debug\netcoreapp3.1\PartFour.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\PartFour\bin\Debug\netcoreapp3.1\PartFour.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\PartFour\bin\Debug\netcoreapp3.1\PartFour.dll
+E:\Programming\Troelsen\PartFour\PartFour\bin\Debug\netcoreapp3.1\PartFour.pdb
+E:\Programming\Troelsen\PartFour\PartFour\obj\Debug\netcoreapp3.1\PartFour.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\PartFour\obj\Debug\netcoreapp3.1\PartFour.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\PartFour\obj\Debug\netcoreapp3.1\PartFour.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\PartFour\obj\Debug\netcoreapp3.1\PartFour.dll
+E:\Programming\Troelsen\PartFour\PartFour\obj\Debug\netcoreapp3.1\PartFour.pdb

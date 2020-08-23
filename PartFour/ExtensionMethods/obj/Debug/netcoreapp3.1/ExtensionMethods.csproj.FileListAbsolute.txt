@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+E:\Programming\Troelsen\PartFour\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+E:\Programming\Troelsen\PartFour\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+E:\Programming\Troelsen\PartFour\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+E:\Programming\Troelsen\PartFour\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+E:\Programming\Troelsen\PartFour\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb

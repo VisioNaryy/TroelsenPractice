@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.exe
+E:\Programming\Troelsen\PartFour\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.deps.json
+E:\Programming\Troelsen\PartFour\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.dll
+E:\Programming\Troelsen\PartFour\SimpleDelegate\bin\Debug\netcoreapp3.1\SimpleDelegate.pdb
+E:\Programming\Troelsen\PartFour\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.dll
+E:\Programming\Troelsen\PartFour\SimpleDelegate\obj\Debug\netcoreapp3.1\SimpleDelegate.pdb

@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\OverloadedOps\bin\Debug\netcoreapp3.1\OverloadedOps.exe
+E:\Programming\Troelsen\PartFour\OverloadedOps\bin\Debug\netcoreapp3.1\OverloadedOps.deps.json
+E:\Programming\Troelsen\PartFour\OverloadedOps\bin\Debug\netcoreapp3.1\OverloadedOps.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\OverloadedOps\bin\Debug\netcoreapp3.1\OverloadedOps.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\OverloadedOps\bin\Debug\netcoreapp3.1\OverloadedOps.dll
+E:\Programming\Troelsen\PartFour\OverloadedOps\bin\Debug\netcoreapp3.1\OverloadedOps.pdb
+E:\Programming\Troelsen\PartFour\OverloadedOps\obj\Debug\netcoreapp3.1\OverloadedOps.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\OverloadedOps\obj\Debug\netcoreapp3.1\OverloadedOps.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\OverloadedOps\obj\Debug\netcoreapp3.1\OverloadedOps.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\OverloadedOps\obj\Debug\netcoreapp3.1\OverloadedOps.dll
+E:\Programming\Troelsen\PartFour\OverloadedOps\obj\Debug\netcoreapp3.1\OverloadedOps.pdb

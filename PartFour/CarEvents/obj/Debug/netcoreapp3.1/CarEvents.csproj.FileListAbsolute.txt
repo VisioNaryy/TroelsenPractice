@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\CarEvents\bin\Debug\netcoreapp3.1\CarEvents.exe
+E:\Programming\Troelsen\PartFour\CarEvents\bin\Debug\netcoreapp3.1\CarEvents.deps.json
+E:\Programming\Troelsen\PartFour\CarEvents\bin\Debug\netcoreapp3.1\CarEvents.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\CarEvents\bin\Debug\netcoreapp3.1\CarEvents.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\CarEvents\bin\Debug\netcoreapp3.1\CarEvents.dll
+E:\Programming\Troelsen\PartFour\CarEvents\bin\Debug\netcoreapp3.1\CarEvents.pdb
+E:\Programming\Troelsen\PartFour\CarEvents\obj\Debug\netcoreapp3.1\CarEvents.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\CarEvents\obj\Debug\netcoreapp3.1\CarEvents.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\CarEvents\obj\Debug\netcoreapp3.1\CarEvents.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\CarEvents\obj\Debug\netcoreapp3.1\CarEvents.dll
+E:\Programming\Troelsen\PartFour\CarEvents\obj\Debug\netcoreapp3.1\CarEvents.pdb

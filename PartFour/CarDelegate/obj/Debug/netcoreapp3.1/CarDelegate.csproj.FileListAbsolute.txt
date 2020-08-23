@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\CarDelegate\bin\Debug\netcoreapp3.1\CarDelegate.exe
+E:\Programming\Troelsen\PartFour\CarDelegate\bin\Debug\netcoreapp3.1\CarDelegate.deps.json
+E:\Programming\Troelsen\PartFour\CarDelegate\bin\Debug\netcoreapp3.1\CarDelegate.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\CarDelegate\bin\Debug\netcoreapp3.1\CarDelegate.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\CarDelegate\bin\Debug\netcoreapp3.1\CarDelegate.dll
+E:\Programming\Troelsen\PartFour\CarDelegate\bin\Debug\netcoreapp3.1\CarDelegate.pdb
+E:\Programming\Troelsen\PartFour\CarDelegate\obj\Debug\netcoreapp3.1\CarDelegate.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\CarDelegate\obj\Debug\netcoreapp3.1\CarDelegate.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\CarDelegate\obj\Debug\netcoreapp3.1\CarDelegate.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\CarDelegate\obj\Debug\netcoreapp3.1\CarDelegate.dll
+E:\Programming\Troelsen\PartFour\CarDelegate\obj\Debug\netcoreapp3.1\CarDelegate.pdb

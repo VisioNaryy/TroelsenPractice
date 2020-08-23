@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\bin\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.exe
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\bin\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.deps.json
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\bin\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\bin\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\bin\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.dll
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\bin\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.pdb
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\obj\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\obj\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\obj\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\obj\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.dll
+E:\Programming\Troelsen\PartFour\CarDelegateMethodGroupConversion\obj\Debug\netcoreapp3.1\CarDelegateMethodGroupConversion.pdb
