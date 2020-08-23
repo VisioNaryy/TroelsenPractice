@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\bin\Debug\netcoreapp3.1\CustomInterface.exe
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\bin\Debug\netcoreapp3.1\CustomInterface.deps.json
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\bin\Debug\netcoreapp3.1\CustomInterface.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\bin\Debug\netcoreapp3.1\CustomInterface.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\bin\Debug\netcoreapp3.1\CustomInterface.dll
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\bin\Debug\netcoreapp3.1\CustomInterface.pdb
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\obj\Debug\netcoreapp3.1\CustomInterface.csprojAssemblyReference.cache
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\obj\Debug\netcoreapp3.1\CustomInterface.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\obj\Debug\netcoreapp3.1\CustomInterface.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\obj\Debug\netcoreapp3.1\CustomInterface.dll
+E:\Programming\Troelsen\ConsoleApp1\CustomInterface\obj\Debug\netcoreapp3.1\CustomInterface.pdb

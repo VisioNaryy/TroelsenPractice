@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\bin\Debug\netcoreapp3.1\Inheritance_polymorphism.exe
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\bin\Debug\netcoreapp3.1\Inheritance_polymorphism.deps.json
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\bin\Debug\netcoreapp3.1\Inheritance_polymorphism.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\bin\Debug\netcoreapp3.1\Inheritance_polymorphism.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\bin\Debug\netcoreapp3.1\Inheritance_polymorphism.dll
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\bin\Debug\netcoreapp3.1\Inheritance_polymorphism.pdb
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\obj\Debug\netcoreapp3.1\Inheritance_polymorphism.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\obj\Debug\netcoreapp3.1\Inheritance_polymorphism.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\obj\Debug\netcoreapp3.1\Inheritance_polymorphism.dll
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\obj\Debug\netcoreapp3.1\Inheritance_polymorphism.pdb
+E:\Programming\Troelsen\ConsoleApp1\Inheritance_polymorphism\obj\Debug\netcoreapp3.1\Inheritance_polymorphism.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\App\bin\Debug\netcoreapp3.1\App.exe
+E:\Programming\Troelsen\ConsoleApp1\App\bin\Debug\netcoreapp3.1\App.deps.json
+E:\Programming\Troelsen\ConsoleApp1\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\App\bin\Debug\netcoreapp3.1\App.dll
+E:\Programming\Troelsen\ConsoleApp1\App\bin\Debug\netcoreapp3.1\App.pdb
+E:\Programming\Troelsen\ConsoleApp1\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+E:\Programming\Troelsen\ConsoleApp1\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\App\obj\Debug\netcoreapp3.1\App.dll
+E:\Programming\Troelsen\ConsoleApp1\App\obj\Debug\netcoreapp3.1\App.pdb

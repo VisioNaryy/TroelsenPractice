@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.exe
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.deps.json
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.dll
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\bin\Debug\netcoreapp3.1\InterfaceHierarchy.pdb
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.dll
+E:\Programming\Troelsen\ConsoleApp1\InterfaceHierarchy\obj\Debug\netcoreapp3.1\InterfaceHierarchy.pdb

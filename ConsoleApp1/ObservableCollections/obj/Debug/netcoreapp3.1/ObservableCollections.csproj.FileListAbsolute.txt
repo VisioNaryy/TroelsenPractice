@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\bin\Debug\netcoreapp3.1\ObservableCollections.exe
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\bin\Debug\netcoreapp3.1\ObservableCollections.deps.json
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\bin\Debug\netcoreapp3.1\ObservableCollections.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\bin\Debug\netcoreapp3.1\ObservableCollections.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\bin\Debug\netcoreapp3.1\ObservableCollections.dll
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\bin\Debug\netcoreapp3.1\ObservableCollections.pdb
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\obj\Debug\netcoreapp3.1\ObservableCollections.csprojAssemblyReference.cache
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\obj\Debug\netcoreapp3.1\ObservableCollections.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\obj\Debug\netcoreapp3.1\ObservableCollections.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\obj\Debug\netcoreapp3.1\ObservableCollections.dll
+E:\Programming\Troelsen\ConsoleApp1\ObservableCollections\obj\Debug\netcoreapp3.1\ObservableCollections.pdb

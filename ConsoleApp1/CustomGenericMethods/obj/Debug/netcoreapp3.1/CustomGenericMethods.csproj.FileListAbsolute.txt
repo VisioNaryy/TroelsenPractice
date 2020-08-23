@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.exe
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.deps.json
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.dll
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.pdb
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.csprojAssemblyReference.cache
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.dll
+E:\Programming\Troelsen\ConsoleApp1\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.pdb

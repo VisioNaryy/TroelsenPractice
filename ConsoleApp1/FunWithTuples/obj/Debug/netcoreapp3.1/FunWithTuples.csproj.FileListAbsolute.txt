@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\bin\Debug\netcoreapp3.1\FunWithTuples.exe
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\bin\Debug\netcoreapp3.1\FunWithTuples.deps.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\bin\Debug\netcoreapp3.1\FunWithTuples.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\bin\Debug\netcoreapp3.1\FunWithTuples.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\bin\Debug\netcoreapp3.1\FunWithTuples.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\bin\Debug\netcoreapp3.1\FunWithTuples.pdb
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\obj\Debug\netcoreapp3.1\FunWithTuples.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\obj\Debug\netcoreapp3.1\FunWithTuples.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\obj\Debug\netcoreapp3.1\FunWithTuples.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithTuples\obj\Debug\netcoreapp3.1\FunWithTuples.pdb

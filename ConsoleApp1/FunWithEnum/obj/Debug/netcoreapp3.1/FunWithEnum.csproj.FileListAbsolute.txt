@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\bin\Debug\netcoreapp3.1\FunWithEnum.exe
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\bin\Debug\netcoreapp3.1\FunWithEnum.deps.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\bin\Debug\netcoreapp3.1\FunWithEnum.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\bin\Debug\netcoreapp3.1\FunWithEnum.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\bin\Debug\netcoreapp3.1\FunWithEnum.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\bin\Debug\netcoreapp3.1\FunWithEnum.pdb
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\obj\Debug\netcoreapp3.1\FunWithEnum.csprojAssemblyReference.cache
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\obj\Debug\netcoreapp3.1\FunWithEnum.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\obj\Debug\netcoreapp3.1\FunWithEnum.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\obj\Debug\netcoreapp3.1\FunWithEnum.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithEnum\obj\Debug\netcoreapp3.1\FunWithEnum.pdb

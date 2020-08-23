@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\bin\Debug\netcoreapp3.1\Incapsulation.exe
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\bin\Debug\netcoreapp3.1\Incapsulation.deps.json
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\bin\Debug\netcoreapp3.1\Incapsulation.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\bin\Debug\netcoreapp3.1\Incapsulation.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\bin\Debug\netcoreapp3.1\Incapsulation.dll
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\bin\Debug\netcoreapp3.1\Incapsulation.pdb
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\obj\Debug\netcoreapp3.1\Incapsulation.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\obj\Debug\netcoreapp3.1\Incapsulation.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\obj\Debug\netcoreapp3.1\Incapsulation.dll
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\obj\Debug\netcoreapp3.1\Incapsulation.pdb
+E:\Programming\Troelsen\ConsoleApp1\Incapsulation\obj\Debug\netcoreapp3.1\Incapsulation.csprojAssemblyReference.cache

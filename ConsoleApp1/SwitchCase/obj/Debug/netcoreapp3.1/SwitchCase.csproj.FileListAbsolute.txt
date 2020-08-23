@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+E:\Programming\Troelsen\ConsoleApp1\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb

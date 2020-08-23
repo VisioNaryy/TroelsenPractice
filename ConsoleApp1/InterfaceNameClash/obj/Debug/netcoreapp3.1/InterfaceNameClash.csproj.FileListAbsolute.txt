@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\bin\Debug\netcoreapp3.1\InterfaceNameClash.exe
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\bin\Debug\netcoreapp3.1\InterfaceNameClash.deps.json
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\bin\Debug\netcoreapp3.1\InterfaceNameClash.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\bin\Debug\netcoreapp3.1\InterfaceNameClash.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\bin\Debug\netcoreapp3.1\InterfaceNameClash.dll
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\bin\Debug\netcoreapp3.1\InterfaceNameClash.pdb
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\obj\Debug\netcoreapp3.1\InterfaceNameClash.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\obj\Debug\netcoreapp3.1\InterfaceNameClash.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\obj\Debug\netcoreapp3.1\InterfaceNameClash.dll
+E:\Programming\Troelsen\ConsoleApp1\InterfaceNameClash\obj\Debug\netcoreapp3.1\InterfaceNameClash.pdb

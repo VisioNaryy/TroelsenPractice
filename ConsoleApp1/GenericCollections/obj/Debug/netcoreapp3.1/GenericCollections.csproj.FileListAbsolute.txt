@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+E:\Programming\Troelsen\ConsoleApp1\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb

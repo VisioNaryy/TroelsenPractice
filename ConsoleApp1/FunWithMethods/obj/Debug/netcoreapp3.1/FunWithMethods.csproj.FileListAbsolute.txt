@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\bin\Debug\netcoreapp3.1\FunWithMethods.exe
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\bin\Debug\netcoreapp3.1\FunWithMethods.deps.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\bin\Debug\netcoreapp3.1\FunWithMethods.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\bin\Debug\netcoreapp3.1\FunWithMethods.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\bin\Debug\netcoreapp3.1\FunWithMethods.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\bin\Debug\netcoreapp3.1\FunWithMethods.pdb
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\obj\Debug\netcoreapp3.1\FunWithMethods.csprojAssemblyReference.cache
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\obj\Debug\netcoreapp3.1\FunWithMethods.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\obj\Debug\netcoreapp3.1\FunWithMethods.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\obj\Debug\netcoreapp3.1\FunWithMethods.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithMethods\obj\Debug\netcoreapp3.1\FunWithMethods.pdb

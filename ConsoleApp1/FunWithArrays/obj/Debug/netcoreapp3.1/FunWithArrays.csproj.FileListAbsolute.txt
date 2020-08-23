@@ -1,0 +1,10 @@
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\bin\Debug\netcoreapp3.1\FunWithArrays.exe
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\bin\Debug\netcoreapp3.1\FunWithArrays.deps.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\bin\Debug\netcoreapp3.1\FunWithArrays.runtimeconfig.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\bin\Debug\netcoreapp3.1\FunWithArrays.runtimeconfig.dev.json
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\bin\Debug\netcoreapp3.1\FunWithArrays.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\bin\Debug\netcoreapp3.1\FunWithArrays.pdb
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\obj\Debug\netcoreapp3.1\FunWithArrays.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\obj\Debug\netcoreapp3.1\FunWithArrays.AssemblyInfo.cs
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\obj\Debug\netcoreapp3.1\FunWithArrays.dll
+E:\Programming\Troelsen\ConsoleApp1\FunWithArrays\obj\Debug\netcoreapp3.1\FunWithArrays.pdb
