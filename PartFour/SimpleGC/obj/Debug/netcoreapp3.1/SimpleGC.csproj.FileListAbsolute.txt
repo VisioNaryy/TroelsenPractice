@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\SimpleGC\bin\Debug\netcoreapp3.1\SimpleGC.exe
+E:\Programming\Troelsen\PartFour\SimpleGC\bin\Debug\netcoreapp3.1\SimpleGC.deps.json
+E:\Programming\Troelsen\PartFour\SimpleGC\bin\Debug\netcoreapp3.1\SimpleGC.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\SimpleGC\bin\Debug\netcoreapp3.1\SimpleGC.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\SimpleGC\bin\Debug\netcoreapp3.1\SimpleGC.dll
+E:\Programming\Troelsen\PartFour\SimpleGC\bin\Debug\netcoreapp3.1\SimpleGC.pdb
+E:\Programming\Troelsen\PartFour\SimpleGC\obj\Debug\netcoreapp3.1\SimpleGC.csprojAssemblyReference.cache
+E:\Programming\Troelsen\PartFour\SimpleGC\obj\Debug\netcoreapp3.1\SimpleGC.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\SimpleGC\obj\Debug\netcoreapp3.1\SimpleGC.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\SimpleGC\obj\Debug\netcoreapp3.1\SimpleGC.dll
+E:\Programming\Troelsen\PartFour\SimpleGC\obj\Debug\netcoreapp3.1\SimpleGC.pdb

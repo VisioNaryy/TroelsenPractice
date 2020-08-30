@@ -1,0 +1,11 @@
+E:\Programming\Troelsen\PartFour\SimpleFinalize\bin\Debug\netcoreapp3.1\SimpleFinalize.exe
+E:\Programming\Troelsen\PartFour\SimpleFinalize\bin\Debug\netcoreapp3.1\SimpleFinalize.deps.json
+E:\Programming\Troelsen\PartFour\SimpleFinalize\bin\Debug\netcoreapp3.1\SimpleFinalize.runtimeconfig.json
+E:\Programming\Troelsen\PartFour\SimpleFinalize\bin\Debug\netcoreapp3.1\SimpleFinalize.runtimeconfig.dev.json
+E:\Programming\Troelsen\PartFour\SimpleFinalize\bin\Debug\netcoreapp3.1\SimpleFinalize.dll
+E:\Programming\Troelsen\PartFour\SimpleFinalize\bin\Debug\netcoreapp3.1\SimpleFinalize.pdb
+E:\Programming\Troelsen\PartFour\SimpleFinalize\obj\Debug\netcoreapp3.1\SimpleFinalize.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\PartFour\SimpleFinalize\obj\Debug\netcoreapp3.1\SimpleFinalize.AssemblyInfo.cs
+E:\Programming\Troelsen\PartFour\SimpleFinalize\obj\Debug\netcoreapp3.1\SimpleFinalize.dll
+E:\Programming\Troelsen\PartFour\SimpleFinalize\obj\Debug\netcoreapp3.1\SimpleFinalize.pdb
+E:\Programming\Troelsen\PartFour\SimpleFinalize\obj\Debug\netcoreapp3.1\SimpleFinalize.csprojAssemblyReference.cache

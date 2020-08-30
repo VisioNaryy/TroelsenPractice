@@ -3,29 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDelegate", "SimpleDelegate\SimpleDelegate.csproj", "{EFC88699-1B66-4806-B849-4274566B4121}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDelegate", "SimpleDelegate\SimpleDelegate.csproj", "{EFC88699-1B66-4806-B849-4274566B4121}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDelegate", "CarDelegate\CarDelegate.csproj", "{F908D5C4-FED9-44B0-9C4E-B7ABA281DCCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarDelegate", "CarDelegate\CarDelegate.csproj", "{F908D5C4-FED9-44B0-9C4E-B7ABA281DCCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDelegateMethodGroupConversion", "CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion.csproj", "{3B277844-376C-4C29-A3D5-9985576F86FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarDelegateMethodGroupConversion", "CarDelegateMethodGroupConversion\CarDelegateMethodGroupConversion.csproj", "{3B277844-376C-4C29-A3D5-9985576F86FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDelegate", "GenericDelegate\GenericDelegate.csproj", "{C84A48C0-34F3-41DF-A3DC-87BC102A7B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDelegate", "GenericDelegate\GenericDelegate.csproj", "{C84A48C0-34F3-41DF-A3DC-87BC102A7B19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionAndFuncDelegates", "ActionAndFuncDelegates\ActionAndFuncDelegates.csproj", "{66EFCD47-0CF1-4AD9-98D0-B1A0450FCC7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActionAndFuncDelegates", "ActionAndFuncDelegates\ActionAndFuncDelegates.csproj", "{66EFCD47-0CF1-4AD9-98D0-B1A0450FCC7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarEvents", "CarEvents\CarEvents.csproj", "{D9B3FDFF-A753-42F7-AED0-93B9B9BD5BF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarEvents", "CarEvents\CarEvents.csproj", "{D9B3FDFF-A753-42F7-AED0-93B9B9BD5BF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLambdaExpressions", "SimpleLambdaExpressions\SimpleLambdaExpressions.csproj", "{9142F2CB-E669-47A8-A8DC-36103A088C90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleLambdaExpressions", "SimpleLambdaExpressions\SimpleLambdaExpressions.csproj", "{9142F2CB-E669-47A8-A8DC-36103A088C90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadedOps", "OverloadedOps\OverloadedOps.csproj", "{EA83CE7F-6546-4494-9733-0111A123980F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadedOps", "OverloadedOps\OverloadedOps.csproj", "{EA83CE7F-6546-4494-9733-0111A123980F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConversions", "CustomConversions\CustomConversions.csproj", "{02CBE405-F96F-4DB5-83D9-310503F28103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomConversions", "CustomConversions\CustomConversions.csproj", "{02CBE405-F96F-4DB5-83D9-310503F28103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{E4F38231-7495-4E68-A8A5-A3DCDF4B1863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{E4F38231-7495-4E68-A8A5-A3DCDF4B1863}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExtensions", "InterfaceExtensions\InterfaceExtensions.csproj", "{9C2ACB06-4131-469E-A5A1-AD9F9B03914E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceExtensions", "InterfaceExtensions\InterfaceExtensions.csproj", "{9C2ACB06-4131-469E-A5A1-AD9F9B03914E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypes", "AnonymousTypes\AnonymousTypes.csproj", "{757E429F-08DE-4620-9012-B22ACAD8D01F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousTypes", "AnonymousTypes\AnonymousTypes.csproj", "{757E429F-08DE-4620-9012-B22ACAD8D01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGC", "SimpleGC\SimpleGC.csproj", "{024E7E3C-4FCE-4592-AE9B-DC700F047F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFinalize", "SimpleFinalize\SimpleFinalize.csproj", "{E06BCA42-EBD8-4780-AE9D-12728E77EFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDisplose", "SimpleDisplose\SimpleDisplose.csproj", "{72A20D98-8DCB-4D67-9D0C-F3A486AC9F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyObjectlnstantiation", "LazyObjectlnstantiation\LazyObjectlnstantiation.csproj", "{BF261D33-D8DF-415C-AA1A-A77EB8749668}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,22 @@ Global
 		{757E429F-08DE-4620-9012-B22ACAD8D01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{757E429F-08DE-4620-9012-B22ACAD8D01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{757E429F-08DE-4620-9012-B22ACAD8D01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024E7E3C-4FCE-4592-AE9B-DC700F047F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024E7E3C-4FCE-4592-AE9B-DC700F047F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024E7E3C-4FCE-4592-AE9B-DC700F047F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024E7E3C-4FCE-4592-AE9B-DC700F047F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06BCA42-EBD8-4780-AE9D-12728E77EFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06BCA42-EBD8-4780-AE9D-12728E77EFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06BCA42-EBD8-4780-AE9D-12728E77EFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06BCA42-EBD8-4780-AE9D-12728E77EFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A20D98-8DCB-4D67-9D0C-F3A486AC9F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A20D98-8DCB-4D67-9D0C-F3A486AC9F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A20D98-8DCB-4D67-9D0C-F3A486AC9F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A20D98-8DCB-4D67-9D0C-F3A486AC9F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF261D33-D8DF-415C-AA1A-A77EB8749668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF261D33-D8DF-415C-AA1A-A77EB8749668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF261D33-D8DF-415C-AA1A-A77EB8749668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF261D33-D8DF-415C-AA1A-A77EB8749668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
