@@ -1,0 +1,5 @@
+D:\Programming\Troelsen\PartV\CarLibrary\bin\Debug\CarLibrary.dll
+D:\Programming\Troelsen\PartV\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\Programming\Troelsen\PartV\CarLibrary\obj\Debug\CarLibrary.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV\CarLibrary\obj\Debug\CarLibrary.dll
+D:\Programming\Troelsen\PartV\CarLibrary\obj\Debug\CarLibrary.pdb

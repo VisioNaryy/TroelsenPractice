@@ -1,0 +1,13 @@
+D:\Programming\Troelsen\PartV\CarLibraryReflection\bin\Debug\netcoreapp3.1\CarLibraryReflection.exe
+D:\Programming\Troelsen\PartV\CarLibraryReflection\bin\Debug\netcoreapp3.1\CarLibraryReflection.deps.json
+D:\Programming\Troelsen\PartV\CarLibraryReflection\bin\Debug\netcoreapp3.1\CarLibraryReflection.runtimeconfig.json
+D:\Programming\Troelsen\PartV\CarLibraryReflection\bin\Debug\netcoreapp3.1\CarLibraryReflection.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV\CarLibraryReflection\bin\Debug\netcoreapp3.1\CarLibraryReflection.dll
+D:\Programming\Troelsen\PartV\CarLibraryReflection\bin\Debug\netcoreapp3.1\CarLibraryReflection.pdb
+D:\Programming\Troelsen\PartV\CarLibraryReflection\bin\Debug\netcoreapp3.1\CarLibrary.dll
+D:\Programming\Troelsen\PartV\CarLibraryReflection\obj\Debug\netcoreapp3.1\CarLibraryReflection.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV\CarLibraryReflection\obj\Debug\netcoreapp3.1\CarLibraryReflection.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV\CarLibraryReflection\obj\Debug\netcoreapp3.1\CarLibraryReflection.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV\CarLibraryReflection\obj\Debug\netcoreapp3.1\CarLibraryReflection.csproj.CopyComplete
+D:\Programming\Troelsen\PartV\CarLibraryReflection\obj\Debug\netcoreapp3.1\CarLibraryReflection.dll
+D:\Programming\Troelsen\PartV\CarLibraryReflection\obj\Debug\netcoreapp3.1\CarLibraryReflection.pdb

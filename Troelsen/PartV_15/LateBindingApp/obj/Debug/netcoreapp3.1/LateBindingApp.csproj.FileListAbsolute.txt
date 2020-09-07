@@ -1,0 +1,10 @@
+D:\Programming\Troelsen\PartV_15\LateBindingApp\bin\Debug\netcoreapp3.1\LateBindingApp.exe
+D:\Programming\Troelsen\PartV_15\LateBindingApp\bin\Debug\netcoreapp3.1\LateBindingApp.deps.json
+D:\Programming\Troelsen\PartV_15\LateBindingApp\bin\Debug\netcoreapp3.1\LateBindingApp.runtimeconfig.json
+D:\Programming\Troelsen\PartV_15\LateBindingApp\bin\Debug\netcoreapp3.1\LateBindingApp.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_15\LateBindingApp\bin\Debug\netcoreapp3.1\LateBindingApp.dll
+D:\Programming\Troelsen\PartV_15\LateBindingApp\bin\Debug\netcoreapp3.1\LateBindingApp.pdb
+D:\Programming\Troelsen\PartV_15\LateBindingApp\obj\Debug\netcoreapp3.1\LateBindingApp.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_15\LateBindingApp\obj\Debug\netcoreapp3.1\LateBindingApp.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_15\LateBindingApp\obj\Debug\netcoreapp3.1\LateBindingApp.dll
+D:\Programming\Troelsen\PartV_15\LateBindingApp\obj\Debug\netcoreapp3.1\LateBindingApp.pdb

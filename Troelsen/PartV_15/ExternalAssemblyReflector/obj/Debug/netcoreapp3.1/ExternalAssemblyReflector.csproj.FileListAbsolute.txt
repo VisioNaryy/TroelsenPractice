@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\bin\Debug\netcoreapp3.1\ExternalAssemblyReflector.exe
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\bin\Debug\netcoreapp3.1\ExternalAssemblyReflector.deps.json
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\bin\Debug\netcoreapp3.1\ExternalAssemblyReflector.runtimeconfig.json
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\bin\Debug\netcoreapp3.1\ExternalAssemblyReflector.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\bin\Debug\netcoreapp3.1\ExternalAssemblyReflector.dll
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\bin\Debug\netcoreapp3.1\ExternalAssemblyReflector.pdb
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\obj\Debug\netcoreapp3.1\ExternalAssemblyReflector.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\obj\Debug\netcoreapp3.1\ExternalAssemblyReflector.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\obj\Debug\netcoreapp3.1\ExternalAssemblyReflector.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\obj\Debug\netcoreapp3.1\ExternalAssemblyReflector.dll
+D:\Programming\Troelsen\PartV_15\ExternalAssemblyReflector\obj\Debug\netcoreapp3.1\ExternalAssemblyReflector.pdb

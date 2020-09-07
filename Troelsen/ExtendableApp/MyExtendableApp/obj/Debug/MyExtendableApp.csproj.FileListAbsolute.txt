@@ -1,0 +1,9 @@
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.exe.config
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.exe
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.pdb
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\bin\Debug\CommonSnappableTypes.dll
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\bin\Debug\CommonSnappableTypes.pdb
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csprojAssemblyReference.cache
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csproj.CopyComplete
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.exe
+D:\Programming\Troelsen\ExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.pdb

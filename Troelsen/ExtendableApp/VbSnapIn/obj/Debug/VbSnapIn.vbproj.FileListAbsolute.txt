@@ -1,0 +1,12 @@
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.dll
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.pdb
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.xml
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\bin\Debug\CommonSnappableTypes.dll
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\bin\Debug\CommonSnappableTypes.pdb
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbprojAssemblyReference.cache
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.Resources.resources
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbproj.GenerateResource.cache
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbproj.CopyComplete
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.dll
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.xml
+D:\Programming\Troelsen\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.pdb

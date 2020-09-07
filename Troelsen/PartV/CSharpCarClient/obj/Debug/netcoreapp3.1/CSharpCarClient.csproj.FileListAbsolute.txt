@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV\CSharpCarClient\bin\Debug\netcoreapp3.1\CSharpCarClient.exe
+D:\Programming\Troelsen\PartV\CSharpCarClient\bin\Debug\netcoreapp3.1\CSharpCarClient.deps.json
+D:\Programming\Troelsen\PartV\CSharpCarClient\bin\Debug\netcoreapp3.1\CSharpCarClient.runtimeconfig.json
+D:\Programming\Troelsen\PartV\CSharpCarClient\bin\Debug\netcoreapp3.1\CSharpCarClient.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV\CSharpCarClient\bin\Debug\netcoreapp3.1\CSharpCarClient.dll
+D:\Programming\Troelsen\PartV\CSharpCarClient\bin\Debug\netcoreapp3.1\CSharpCarClient.pdb
+D:\Programming\Troelsen\PartV\CSharpCarClient\obj\Debug\netcoreapp3.1\CSharpCarClient.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV\CSharpCarClient\obj\Debug\netcoreapp3.1\CSharpCarClient.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV\CSharpCarClient\obj\Debug\netcoreapp3.1\CSharpCarClient.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV\CSharpCarClient\obj\Debug\netcoreapp3.1\CSharpCarClient.dll
+D:\Programming\Troelsen\PartV\CSharpCarClient\obj\Debug\netcoreapp3.1\CSharpCarClient.pdb

@@ -1,0 +1,12 @@
+D:\Programming\Troelsen\PartV\CodeBaseClient\bin\Debug\netcoreapp3.1\CodeBaseClient.exe
+D:\Programming\Troelsen\PartV\CodeBaseClient\bin\Debug\netcoreapp3.1\CodeBaseClient.dll.config
+D:\Programming\Troelsen\PartV\CodeBaseClient\bin\Debug\netcoreapp3.1\CodeBaseClient.deps.json
+D:\Programming\Troelsen\PartV\CodeBaseClient\bin\Debug\netcoreapp3.1\CodeBaseClient.runtimeconfig.json
+D:\Programming\Troelsen\PartV\CodeBaseClient\bin\Debug\netcoreapp3.1\CodeBaseClient.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV\CodeBaseClient\bin\Debug\netcoreapp3.1\CodeBaseClient.dll
+D:\Programming\Troelsen\PartV\CodeBaseClient\bin\Debug\netcoreapp3.1\CodeBaseClient.pdb
+D:\Programming\Troelsen\PartV\CodeBaseClient\obj\Debug\netcoreapp3.1\CodeBaseClient.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV\CodeBaseClient\obj\Debug\netcoreapp3.1\CodeBaseClient.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV\CodeBaseClient\obj\Debug\netcoreapp3.1\CodeBaseClient.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV\CodeBaseClient\obj\Debug\netcoreapp3.1\CodeBaseClient.dll
+D:\Programming\Troelsen\PartV\CodeBaseClient\obj\Debug\netcoreapp3.1\CodeBaseClient.pdb

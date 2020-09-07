@@ -1,0 +1,26 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpCarClient/1.0.0": {
+        "dependencies": {
+          "CarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CSharpCarClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpCarClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

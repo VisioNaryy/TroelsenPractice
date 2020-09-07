@@ -1,0 +1,8 @@
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\bin\Debug\netcoreapp3.1\AttributedCarLibrary.deps.json
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\bin\Debug\netcoreapp3.1\AttributedCarLibrary.dll
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\obj\Debug\netcoreapp3.1\AttributedCarLibrary.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\obj\Debug\netcoreapp3.1\AttributedCarLibrary.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\bin\Debug\netcoreapp3.1\AttributedCarLibrary.pdb
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\obj\Debug\netcoreapp3.1\AttributedCarLibrary.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\obj\Debug\netcoreapp3.1\AttributedCarLibrary.dll
+D:\Programming\Troelsen\PartV_15\AttributedCarLibrary\obj\Debug\netcoreapp3.1\AttributedCarLibrary.pdb

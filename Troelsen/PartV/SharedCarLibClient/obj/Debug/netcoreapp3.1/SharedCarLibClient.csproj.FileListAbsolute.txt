@@ -1,0 +1,13 @@
+D:\Programming\Troelsen\PartV\SharedCarLibClient\bin\Debug\netcoreapp3.1\SharedCarLibClient.exe
+D:\Programming\Troelsen\PartV\SharedCarLibClient\bin\Debug\netcoreapp3.1\SharedCarLibClient.deps.json
+D:\Programming\Troelsen\PartV\SharedCarLibClient\bin\Debug\netcoreapp3.1\SharedCarLibClient.runtimeconfig.json
+D:\Programming\Troelsen\PartV\SharedCarLibClient\bin\Debug\netcoreapp3.1\SharedCarLibClient.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV\SharedCarLibClient\bin\Debug\netcoreapp3.1\SharedCarLibClient.dll
+D:\Programming\Troelsen\PartV\SharedCarLibClient\bin\Debug\netcoreapp3.1\SharedCarLibClient.pdb
+D:\Programming\Troelsen\PartV\SharedCarLibClient\obj\Debug\netcoreapp3.1\SharedCarLibClient.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV\SharedCarLibClient\obj\Debug\netcoreapp3.1\SharedCarLibClient.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV\SharedCarLibClient\obj\Debug\netcoreapp3.1\SharedCarLibClient.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV\SharedCarLibClient\obj\Debug\netcoreapp3.1\SharedCarLibClient.dll
+D:\Programming\Troelsen\PartV\SharedCarLibClient\obj\Debug\netcoreapp3.1\SharedCarLibClient.pdb
+D:\Programming\Troelsen\PartV\SharedCarLibClient\bin\Debug\netcoreapp3.1\CarLibrary.dll
+D:\Programming\Troelsen\PartV\SharedCarLibClient\obj\Debug\netcoreapp3.1\SharedCarLibClient.csproj.CopyComplete

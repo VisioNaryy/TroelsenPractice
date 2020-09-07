@@ -1,0 +1,8 @@
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.dll
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.pdb
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\bin\Debug\CommonSnappableTypes.dll
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\bin\Debug\CommonSnappableTypes.pdb
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csprojAssemblyReference.cache
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CopyComplete
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.dll
+D:\Programming\Troelsen\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.pdb

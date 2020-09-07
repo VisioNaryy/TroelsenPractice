@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\bin\Debug\netcoreapp3.1\MyTypeViewer.exe
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\bin\Debug\netcoreapp3.1\MyTypeViewer.deps.json
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\bin\Debug\netcoreapp3.1\MyTypeViewer.runtimeconfig.json
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\bin\Debug\netcoreapp3.1\MyTypeViewer.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\bin\Debug\netcoreapp3.1\MyTypeViewer.dll
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\bin\Debug\netcoreapp3.1\MyTypeViewer.pdb
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\obj\Debug\netcoreapp3.1\MyTypeViewer.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\obj\Debug\netcoreapp3.1\MyTypeViewer.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\obj\Debug\netcoreapp3.1\MyTypeViewer.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\obj\Debug\netcoreapp3.1\MyTypeViewer.dll
+D:\Programming\Troelsen\PartV_15\MyTypeViewer\obj\Debug\netcoreapp3.1\MyTypeViewer.pdb

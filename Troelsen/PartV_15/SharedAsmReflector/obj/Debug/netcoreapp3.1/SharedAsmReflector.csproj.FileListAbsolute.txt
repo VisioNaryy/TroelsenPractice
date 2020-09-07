@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\bin\Debug\netcoreapp3.1\SharedAsmReflector.exe
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\bin\Debug\netcoreapp3.1\SharedAsmReflector.deps.json
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\bin\Debug\netcoreapp3.1\SharedAsmReflector.runtimeconfig.json
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\bin\Debug\netcoreapp3.1\SharedAsmReflector.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\bin\Debug\netcoreapp3.1\SharedAsmReflector.dll
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\bin\Debug\netcoreapp3.1\SharedAsmReflector.pdb
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\obj\Debug\netcoreapp3.1\SharedAsmReflector.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\obj\Debug\netcoreapp3.1\SharedAsmReflector.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\obj\Debug\netcoreapp3.1\SharedAsmReflector.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\obj\Debug\netcoreapp3.1\SharedAsmReflector.dll
+D:\Programming\Troelsen\PartV_15\SharedAsmReflector\obj\Debug\netcoreapp3.1\SharedAsmReflector.pdb

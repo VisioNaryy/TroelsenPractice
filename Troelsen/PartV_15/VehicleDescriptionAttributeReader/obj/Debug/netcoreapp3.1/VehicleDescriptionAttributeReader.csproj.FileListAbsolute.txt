@@ -1,0 +1,15 @@
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.exe
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.deps.json
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.runtimeconfig.json
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.dll
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.pdb
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\DryIoc.dll
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\AttributedCarLibrary.dll
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\bin\Debug\netcoreapp3.1\AttributedCarLibrary.pdb
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\obj\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\obj\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\obj\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\obj\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.csproj.CopyComplete
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\obj\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.dll
+D:\Programming\Troelsen\PartV_15\VehicleDescriptionAttributeReader\obj\Debug\netcoreapp3.1\VehicleDescriptionAttributeReader.pdb

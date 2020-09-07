@@ -1,0 +1,14 @@
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\obj\Debug\netcoreapp3.1\VisualBasicCarClient.vbprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\obj\Debug\netcoreapp3.1\VisualBasicCarClient.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\obj\Debug\netcoreapp3.1\VisualBasicCarClient.AssemblyInfo.vb
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\VisualBasicCarClient.exe
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\VisualBasicCarClient.deps.json
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\VisualBasicCarClient.runtimeconfig.json
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\VisualBasicCarClient.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\VisualBasicCarClient.dll
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\VisualBasicCarClient.pdb
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\CarLibrary.dll
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\bin\Debug\netcoreapp3.1\CarLibrary.pdb
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\obj\Debug\netcoreapp3.1\VisualBasicCarClient.vbproj.CopyComplete
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\obj\Debug\netcoreapp3.1\VisualBasicCarClient.dll
+D:\Programming\Troelsen\PartV\VisualBasicCarClient\obj\Debug\netcoreapp3.1\VisualBasicCarClient.pdb
