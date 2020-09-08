@@ -1,0 +1,14 @@
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\bin\Debug\netcoreapp3.1\ExportDataToOfficeApp.exe
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\obj\Debug\netcoreapp3.1\ExportDataToOfficeApp.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\obj\Debug\netcoreapp3.1\ExportDataToOfficeApp.csproj.ResolveComReference.cache
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\obj\Debug\netcoreapp3.1\ExportDataToOfficeApp.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\obj\Debug\netcoreapp3.1\ExportDataToOfficeApp.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\bin\Debug\netcoreapp3.1\ExportDataToOfficeApp.deps.json
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\bin\Debug\netcoreapp3.1\ExportDataToOfficeApp.runtimeconfig.json
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\bin\Debug\netcoreapp3.1\ExportDataToOfficeApp.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\bin\Debug\netcoreapp3.1\ExportDataToOfficeApp.dll
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\bin\Debug\netcoreapp3.1\ExportDataToOfficeApp.pdb
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\obj\Debug\netcoreapp3.1\ExportDataToOfficeApp.dll
+D:\Programming\Troelsen\PartV_16\ExportDataToOfficeApp\obj\Debug\netcoreapp3.1\ExportDataToOfficeApp.pdb

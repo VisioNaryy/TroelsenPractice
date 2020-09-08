@@ -1,0 +1,8 @@
+D:\Programming\Troelsen\PartV_16\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.deps.json
+D:\Programming\Troelsen\PartV_16\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.dll
+D:\Programming\Troelsen\PartV_16\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.pdb
+D:\Programming\Troelsen\PartV_16\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_16\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_16\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.dll
+D:\Programming\Troelsen\PartV_16\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.pdb
+D:\Programming\Troelsen\PartV_16\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.csprojAssemblyReference.cache

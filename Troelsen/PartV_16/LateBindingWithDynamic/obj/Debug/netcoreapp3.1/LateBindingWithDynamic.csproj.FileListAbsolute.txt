@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\bin\Debug\netcoreapp3.1\LateBindingWithDynamic.exe
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\bin\Debug\netcoreapp3.1\LateBindingWithDynamic.deps.json
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\bin\Debug\netcoreapp3.1\LateBindingWithDynamic.runtimeconfig.json
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\bin\Debug\netcoreapp3.1\LateBindingWithDynamic.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\bin\Debug\netcoreapp3.1\LateBindingWithDynamic.dll
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\bin\Debug\netcoreapp3.1\LateBindingWithDynamic.pdb
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\obj\Debug\netcoreapp3.1\LateBindingWithDynamic.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\obj\Debug\netcoreapp3.1\LateBindingWithDynamic.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\obj\Debug\netcoreapp3.1\LateBindingWithDynamic.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\obj\Debug\netcoreapp3.1\LateBindingWithDynamic.dll
+D:\Programming\Troelsen\PartV_16\LateBindingWithDynamic\obj\Debug\netcoreapp3.1\LateBindingWithDynamic.pdb

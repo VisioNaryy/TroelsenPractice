@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\bin\Debug\netcoreapp3.1\DynamicKeyword.exe
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\bin\Debug\netcoreapp3.1\DynamicKeyword.deps.json
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\bin\Debug\netcoreapp3.1\DynamicKeyword.runtimeconfig.json
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\bin\Debug\netcoreapp3.1\DynamicKeyword.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\bin\Debug\netcoreapp3.1\DynamicKeyword.dll
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\bin\Debug\netcoreapp3.1\DynamicKeyword.pdb
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\obj\Debug\netcoreapp3.1\DynamicKeyword.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\obj\Debug\netcoreapp3.1\DynamicKeyword.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\obj\Debug\netcoreapp3.1\DynamicKeyword.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\obj\Debug\netcoreapp3.1\DynamicKeyword.dll
+D:\Programming\Troelsen\PartV_16\DynamicKeyword\obj\Debug\netcoreapp3.1\DynamicKeyword.pdb
