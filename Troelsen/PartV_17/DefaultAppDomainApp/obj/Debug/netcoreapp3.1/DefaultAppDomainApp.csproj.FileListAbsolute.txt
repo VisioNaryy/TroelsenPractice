@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\bin\Debug\netcoreapp3.1\DefaultAppDomainApp.exe
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\bin\Debug\netcoreapp3.1\DefaultAppDomainApp.deps.json
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\bin\Debug\netcoreapp3.1\DefaultAppDomainApp.runtimeconfig.json
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\bin\Debug\netcoreapp3.1\DefaultAppDomainApp.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\bin\Debug\netcoreapp3.1\DefaultAppDomainApp.dll
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\bin\Debug\netcoreapp3.1\DefaultAppDomainApp.pdb
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.dll
+D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.pdb

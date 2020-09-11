@@ -1,0 +1,6 @@
+D:\Programming\Troelsen\PartV_17\CustomAppDomain\bin\Debug\CustomAppDomain.exe.config
+D:\Programming\Troelsen\PartV_17\CustomAppDomain\bin\Debug\CustomAppDomain.exe
+D:\Programming\Troelsen\PartV_17\CustomAppDomain\bin\Debug\CustomAppDomain.pdb
+D:\Programming\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.exe
+D:\Programming\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.pdb

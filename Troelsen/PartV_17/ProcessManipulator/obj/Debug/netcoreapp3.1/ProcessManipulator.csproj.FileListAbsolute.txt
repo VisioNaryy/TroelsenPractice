@@ -1,0 +1,11 @@
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.exe
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.deps.json
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.runtimeconfig.json
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.runtimeconfig.dev.json
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.dll
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.pdb
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.csprojAssemblyReference.cache
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.AssemblyInfoInputs.cache
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.AssemblyInfo.cs
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.dll
+D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.pdb
