@@ -1,0 +1,7 @@
+D:\Programming\C#_patterns\FactoryMEethod\FactoryMEethod\bin\Debug\FactoryMEethod.exe.config
+D:\Programming\C#_patterns\FactoryMEethod\FactoryMEethod\bin\Debug\FactoryMEethod.exe
+D:\Programming\C#_patterns\FactoryMEethod\FactoryMEethod\bin\Debug\FactoryMEethod.pdb
+D:\Programming\C#_patterns\FactoryMEethod\FactoryMEethod\obj\Debug\FactoryMEethod.csprojAssemblyReference.cache
+D:\Programming\C#_patterns\FactoryMEethod\FactoryMEethod\obj\Debug\FactoryMEethod.csproj.CoreCompileInputs.cache
+D:\Programming\C#_patterns\FactoryMEethod\FactoryMEethod\obj\Debug\FactoryMEethod.exe
+D:\Programming\C#_patterns\FactoryMEethod\FactoryMEethod\obj\Debug\FactoryMEethod.pdb
