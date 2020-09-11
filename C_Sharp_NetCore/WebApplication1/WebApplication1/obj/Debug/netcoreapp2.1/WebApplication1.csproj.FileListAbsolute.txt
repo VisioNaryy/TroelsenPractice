@@ -1,0 +1,14 @@
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+D:\Программирование\C#_NetCore\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb

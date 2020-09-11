@@ -1,0 +1,14 @@
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\bin\Debug\netcoreapp2.1\WebApplication2_Map.deps.json
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\bin\Debug\netcoreapp2.1\WebApplication2_Map.runtimeconfig.json
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\bin\Debug\netcoreapp2.1\WebApplication2_Map.runtimeconfig.dev.json
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\bin\Debug\netcoreapp2.1\WebApplication2_Map.dll
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\bin\Debug\netcoreapp2.1\WebApplication2_Map.pdb
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.csprojAssemblyReference.cache
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.csproj.CoreCompileInputs.cache
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.RazorAssemblyInfo.cache
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.RazorAssemblyInfo.cs
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.AssemblyInfoInputs.cache
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.AssemblyInfo.cs
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.RazorTargetAssemblyInfo.cache
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.dll
+D:\Программирование\C#_NetCore\WebApplication2_Map\WebApplication2_Map\obj\Debug\netcoreapp2.1\WebApplication2_Map.pdb

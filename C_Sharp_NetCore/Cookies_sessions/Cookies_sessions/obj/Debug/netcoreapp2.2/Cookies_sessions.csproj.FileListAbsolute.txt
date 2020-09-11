@@ -1,0 +1,14 @@
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\bin\Debug\netcoreapp2.2\Cookies_sessions.deps.json
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\bin\Debug\netcoreapp2.2\Cookies_sessions.runtimeconfig.json
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\bin\Debug\netcoreapp2.2\Cookies_sessions.runtimeconfig.dev.json
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\bin\Debug\netcoreapp2.2\Cookies_sessions.dll
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\bin\Debug\netcoreapp2.2\Cookies_sessions.pdb
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.csprojAssemblyReference.cache
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.csproj.CoreCompileInputs.cache
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.RazorAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.RazorAssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.AssemblyInfoInputs.cache
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.AssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.RazorTargetAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.dll
+D:\Programming\C_Sharp_NetCore\Cookies_sessions\Cookies_sessions\obj\Debug\netcoreapp2.2\Cookies_sessions.pdb

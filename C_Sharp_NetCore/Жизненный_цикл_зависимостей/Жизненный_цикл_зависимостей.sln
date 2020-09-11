@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Жизненный_цикл_зависимостей", "Жизненный_цикл_зависимостей\Жизненный_цикл_зависимостей.csproj", "{7B0251C3-1997-4C91-BF5B-588FE1F31328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B0251C3-1997-4C91-BF5B-588FE1F31328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0251C3-1997-4C91-BF5B-588FE1F31328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0251C3-1997-4C91-BF5B-588FE1F31328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0251C3-1997-4C91-BF5B-588FE1F31328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CA9680-AA2B-4DC5-822A-4E14F1170888}
+	EndGlobalSection
+EndGlobal

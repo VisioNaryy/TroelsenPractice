@@ -1,0 +1,14 @@
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.deps.json
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.runtimeconfig.json
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.runtimeconfig.dev.json
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.dll
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.csprojAssemblyReference.cache
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.csproj.CoreCompileInputs.cache
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.RazorAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.RazorAssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.AssemblyInfoInputs.cache
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.AssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.RazorTargetAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.pdb
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.dll
+D:\Programming\C_Sharp_NetCore\WEB_APPLICATION\WebAPI2\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.pdb

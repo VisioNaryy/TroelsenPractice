@@ -1,0 +1,14 @@
+D:\Programming\C_Sharp_NetCore\Logging\Logging\bin\Debug\netcoreapp2.2\Logging.deps.json
+D:\Programming\C_Sharp_NetCore\Logging\Logging\bin\Debug\netcoreapp2.2\Logging.runtimeconfig.json
+D:\Programming\C_Sharp_NetCore\Logging\Logging\bin\Debug\netcoreapp2.2\Logging.runtimeconfig.dev.json
+D:\Programming\C_Sharp_NetCore\Logging\Logging\bin\Debug\netcoreapp2.2\Logging.dll
+D:\Programming\C_Sharp_NetCore\Logging\Logging\bin\Debug\netcoreapp2.2\Logging.pdb
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.csprojAssemblyReference.cache
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.csproj.CoreCompileInputs.cache
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.RazorAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.RazorAssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.AssemblyInfoInputs.cache
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.AssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.RazorTargetAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.dll
+D:\Programming\C_Sharp_NetCore\Logging\Logging\obj\Debug\netcoreapp2.2\Logging.pdb

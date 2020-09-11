@@ -1,0 +1,14 @@
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.deps.json
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.runtimeconfig.json
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.runtimeconfig.dev.json
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.dll
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\bin\Debug\netcoreapp2.2\Exeptions.pdb
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.csprojAssemblyReference.cache
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.csproj.CoreCompileInputs.cache
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.RazorAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.RazorAssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.AssemblyInfoInputs.cache
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.AssemblyInfo.cs
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.RazorTargetAssemblyInfo.cache
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.dll
+D:\Programming\C_Sharp_NetCore\Exeptions\Exeptions\obj\Debug\netcoreapp2.2\Exeptions.pdb
