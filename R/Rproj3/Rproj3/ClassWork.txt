@@ -1,0 +1,170 @@
+R version 3.3.2 (2016-10-31) -- "Sincere Pumpkin Patch"
+Copyright (C) 2016 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+Microsoft R Open 3.3.2
+The enhanced R distribution from Microsoft
+Microsoft packages Copyright (C) 2017 Microsoft
+
+Loading Microsoft R Client packages, version 3.3.2.0033. 
+Microsoft R Client limits some functions to available memory.
+See: https://msdn.microsoft.com/en-us/microsoft-r-client-windows for information
+about additional features.
+
+Type 'readme()' for release notes, privacy() for privacy policy, or
+'RevoLicense()' for licensing information.
+
+Using the Intel MKL for parallel mathematical computing(using 4 cores).
+Default CRAN mirror snapshot taken on 2016-11-01.
+See: https://mran.microsoft.com/.
+
+Error in download.file(url = vurl, destfile = vfile, quiet = quiet) : 
+  cannot open URL 'https://go.microsoft.com/fwlink/?linkid=827098&clcid=0x409'
+In addition: Warning message:
+In download.file(url = vurl, destfile = vfile, quiet = quiet) :
+  InternetOpenUrl failed: 'Не удается найти сервер с таким именем или адресом'
+> library("lmtest") 
+Error in base::library(...) : there is no package called ‘lmtest’
+> install.packages("lmtest")
+Installing package into ‘C:/Users/lampi/OneDrive/Документы/R/win-library/3.3’
+(as ‘lib’ is unspecified)
+also installing the dependency ‘zoo’
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/zoo_1.7-13.zip'
+Content type 'application/zip' length 900295 bytes (879 KB)
+downloaded 879 KB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/lmtest_0.9-34.zip'
+Content type 'application/zip' length 283920 bytes (277 KB)
+downloaded 277 KB
+
+package ‘zoo’ successfully unpacked and MD5 sums checked
+package ‘lmtest’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\lampi\AppData\Local\Temp\RtmpIDDdDt\downloaded_packages
+> bptest()
+Error: could not find function "bptest"
+> library(lmtest)
+Loading required package: zoo
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+> mod2<-lm(iris$SL)
+Error in terms.formula(formula, data = data) : 
+  аргумент не является правильной моделью
+> mod2<-lm(iris$Sepal.Length~iris$Petal.Length+iris$Sepal.Width)
+> summary(mod2)
+
+Call:
+lm(formula = iris$Sepal.Length ~ iris$Petal.Length + iris$Sepal.Width)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.96159 -0.23489  0.00077  0.21453  0.78557 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        2.24914    0.24797    9.07 7.04e-16 ***
+iris$Petal.Length  0.47192    0.01712   27.57  < 2e-16 ***
+iris$Sepal.Width   0.59552    0.06933    8.59 1.16e-14 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.3333 on 147 degrees of freedom
+Multiple R-squared:  0.8402,	Adjusted R-squared:  0.838 
+F-statistic: 386.4 on 2 and 147 DF,  p-value: < 2.2e-16
+
+> sqrt(vif(mod2))>2
+Error: could not find function "vif"
+> install.packages("car")
+Installing package into ‘C:/Users/lampi/OneDrive/Документы/R/win-library/3.3’
+(as ‘lib’ is unspecified)
+also installing the dependencies ‘minqa’, ‘nloptr’, ‘RcppEigen’, ‘lme4’, ‘SparseM’, ‘MatrixModels’, ‘pbkrtest’, ‘quantreg’
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/minqa_1.2.4.zip'
+Content type 'application/zip' length 619243 bytes (604 KB)
+downloaded 604 KB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/nloptr_1.0.4.zip'
+Content type 'application/zip' length 1171877 bytes (1.1 MB)
+downloaded 1.1 MB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/RcppEigen_0.3.2.9.0.zip'
+Content type 'application/zip' length 2104551 bytes (2.0 MB)
+downloaded 2.0 MB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/lme4_1.1-12.zip'
+Content type 'application/zip' length 4744444 bytes (4.5 MB)
+downloaded 4.5 MB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/SparseM_1.72.zip'
+Content type 'application/zip' length 948151 bytes (925 KB)
+downloaded 925 KB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/MatrixModels_0.4-1.zip'
+Content type 'application/zip' length 195758 bytes (191 KB)
+downloaded 191 KB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/pbkrtest_0.4-6.zip'
+Content type 'application/zip' length 213108 bytes (208 KB)
+downloaded 208 KB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/quantreg_5.29.zip'
+Content type 'application/zip' length 2203263 bytes (2.1 MB)
+downloaded 2.1 MB
+
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/car_2.1-3.zip'
+Content type 'application/zip' length 1446795 bytes (1.4 MB)
+downloaded 1.4 MB
+
+package ‘minqa’ successfully unpacked and MD5 sums checked
+package ‘nloptr’ successfully unpacked and MD5 sums checked
+package ‘RcppEigen’ successfully unpacked and MD5 sums checked
+package ‘lme4’ successfully unpacked and MD5 sums checked
+package ‘SparseM’ successfully unpacked and MD5 sums checked
+package ‘MatrixModels’ successfully unpacked and MD5 sums checked
+package ‘pbkrtest’ successfully unpacked and MD5 sums checked
+package ‘quantreg’ successfully unpacked and MD5 sums checked
+package ‘car’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\lampi\AppData\Local\Temp\RtmpIDDdDt\downloaded_packages
+> library(car)
+> sqrt(vif(mod2))>2
+iris$Petal.Length  iris$Sepal.Width 
+            FALSE             FALSE 
+> readxl("PractiseWork2 (1).xlsx")
+Error: could not find function "readxl"
+> install.packages("readxl")
+Installing package into ‘C:/Users/lampi/OneDrive/Документы/R/win-library/3.3’
+(as ‘lib’ is unspecified)
+trying URL 'https://mran.revolutionanalytics.com/snapshot/2016-11-01/bin/windows/contrib/3.3/readxl_0.1.1.zip'
+Content type 'application/zip' length 801406 bytes (782 KB)
+downloaded 782 KB
+
+package ‘readxl’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\lampi\AppData\Local\Temp\RtmpIDDdDt\downloaded_packages
+> library(readxl)
+> readxl("PractiseWork2 (1).xlsx")
+Error: could not find function "readxl"
+> model<-read_excel("PractiseWork2 (1).xlsx")
+> model2<-read_excel("Hey.xlsx")
