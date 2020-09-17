@@ -1,0 +1,6 @@
+E:\Programming\Troelsen\Troelsen\PartV_17\ObjectContextApp\obj\Debug\ObjectContextApp.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_17\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_17\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+E:\Programming\Troelsen\Troelsen\PartV_17\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+E:\Programming\Troelsen\Troelsen\PartV_17\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+E:\Programming\Troelsen\Troelsen\PartV_17\ObjectContextApp\obj\Debug\ObjectContextApp.pdb

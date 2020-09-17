@@ -1,0 +1,5 @@
+E:\Programming\Troelsen\Troelsen\PartV_19\TimerApp\bin\Debug\TimerApp.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_19\TimerApp\bin\Debug\TimerApp.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\TimerApp\bin\Debug\TimerApp.pdb
+E:\Programming\Troelsen\Troelsen\PartV_19\TimerApp\obj\Debug\TimerApp.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\TimerApp\obj\Debug\TimerApp.pdb

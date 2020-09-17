@@ -9,3 +9,8 @@ D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\Def
 D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.AssemblyInfo.cs
 D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.dll
 D:\Programming\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.pdb
+E:\Programming\Troelsen\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.AssemblyInfo.cs
+E:\Programming\Troelsen\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.dll
+E:\Programming\Troelsen\Troelsen\PartV_17\DefaultAppDomainApp\obj\Debug\netcoreapp3.1\DefaultAppDomainApp.pdb

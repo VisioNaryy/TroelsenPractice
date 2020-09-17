@@ -4,3 +4,9 @@ D:\Programming\Troelsen\PartV_17\CustomAppDomain\bin\Debug\CustomAppDomain.pdb
 D:\Programming\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.csprojAssemblyReference.cache
 D:\Programming\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.exe
 D:\Programming\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.pdb
+E:\Programming\Troelsen\Troelsen\PartV_17\CustomAppDomain\bin\Debug\CustomAppDomain.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_17\CustomAppDomain\bin\Debug\CustomAppDomain.exe
+E:\Programming\Troelsen\Troelsen\PartV_17\CustomAppDomain\bin\Debug\CustomAppDomain.pdb
+E:\Programming\Troelsen\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.exe
+E:\Programming\Troelsen\Troelsen\PartV_17\CustomAppDomain\obj\Debug\CustomAppDomain.pdb

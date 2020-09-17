@@ -1,0 +1,6 @@
+E:\Programming\Troelsen\Troelsen\PartV_19\ThreadStats\bin\Debug\ThreadStats.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_19\ThreadStats\bin\Debug\ThreadStats.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\ThreadStats\bin\Debug\ThreadStats.pdb
+E:\Programming\Troelsen\Troelsen\PartV_19\ThreadStats\obj\Debug\ThreadStats.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_19\ThreadStats\obj\Debug\ThreadStats.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\ThreadStats\obj\Debug\ThreadStats.pdb

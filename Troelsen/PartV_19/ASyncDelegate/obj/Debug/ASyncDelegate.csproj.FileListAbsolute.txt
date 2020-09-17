@@ -1,0 +1,6 @@
+E:\Programming\Troelsen\Troelsen\PartV_19\ASyncDelegate\bin\Debug\ASyncDelegate.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_19\ASyncDelegate\bin\Debug\ASyncDelegate.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\ASyncDelegate\bin\Debug\ASyncDelegate.pdb
+E:\Programming\Troelsen\Troelsen\PartV_19\ASyncDelegate\obj\Debug\ASyncDelegate.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_19\ASyncDelegate\obj\Debug\ASyncDelegate.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\ASyncDelegate\obj\Debug\ASyncDelegate.pdb

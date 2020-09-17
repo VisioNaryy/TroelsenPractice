@@ -1,0 +1,6 @@
+E:\Programming\Troelsen\Troelsen\PartV_19\Pools\bin\Debug\Pools.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_19\Pools\bin\Debug\Pools.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\Pools\bin\Debug\Pools.pdb
+E:\Programming\Troelsen\Troelsen\PartV_19\Pools\obj\Debug\Pools.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_19\Pools\obj\Debug\Pools.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\Pools\obj\Debug\Pools.pdb

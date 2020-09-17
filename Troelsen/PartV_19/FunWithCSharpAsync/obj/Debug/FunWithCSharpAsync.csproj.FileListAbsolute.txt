@@ -1,0 +1,6 @@
+E:\Programming\Troelsen\Troelsen\PartV_19\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_19\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.pdb
+E:\Programming\Troelsen\Troelsen\PartV_19\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_19\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.pdb

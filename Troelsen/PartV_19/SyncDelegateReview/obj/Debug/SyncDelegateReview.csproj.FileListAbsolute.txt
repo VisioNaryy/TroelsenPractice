@@ -1,0 +1,5 @@
+E:\Programming\Troelsen\Troelsen\PartV_19\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe.config
+E:\Programming\Troelsen\Troelsen\PartV_19\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\SyncDelegateReview\bin\Debug\SyncDelegateReview.pdb
+E:\Programming\Troelsen\Troelsen\PartV_19\SyncDelegateReview\obj\Debug\SyncDelegateReview.exe
+E:\Programming\Troelsen\Troelsen\PartV_19\SyncDelegateReview\obj\Debug\SyncDelegateReview.pdb

@@ -9,3 +9,14 @@ D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\Proc
 D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.AssemblyInfo.cs
 D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.dll
 D:\Programming\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.pdb
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.exe
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.deps.json
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.runtimeconfig.json
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.runtimeconfig.dev.json
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.dll
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\bin\Debug\netcoreapp3.1\ProcessManipulator.pdb
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.csprojAssemblyReference.cache
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.AssemblyInfoInputs.cache
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.AssemblyInfo.cs
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.dll
+E:\Programming\Troelsen\Troelsen\PartV_17\ProcessManipulator\obj\Debug\netcoreapp3.1\ProcessManipulator.pdb
